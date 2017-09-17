@@ -1,0 +1,1 @@
+java -cp "C:\Users\Mangla\workspace\JenkinsTest\lib\testng.jar";"C:\Users\Mangla\workspace\JenkinsTest\bin" org.testng.TestNG C:\Users\Mangla\workspace\JenkinsTest\src\testSuite\TestNG.xml

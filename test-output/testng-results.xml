@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="26" started-at="2017-09-17T07:57:53Z" finished-at="2017-09-17T07:57:53Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="26" started-at="2017-09-17T07:57:53Z" finished-at="2017-09-17T07:57:53Z">
+      <class name="basic.TestFirst">
+        <test-method status="PASS" signature="testFirstScript()[pri:0, instance:basic.TestFirst@6ea12c19]" name="testFirstScript" duration-ms="9" started-at="2017-09-17T13:27:53Z" finished-at="2017-09-17T13:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstScript -->
+      </class> <!-- basic.TestFirst -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
